@@ -1,0 +1,1001 @@
+﻿Sr.,term,relevant,retrieved_our,True Positive (TP),False Positive (FP),False Negative (FN),Precision,Recall,time
+1,tubulin alpha 1a,69,69,60,0,9,0.869565217,0.769230769,1
+2,"phosphofructokinase, muscle",30,60,30,30,0,0.5,1,3
+3,"Hydatidiform Mole, Partial",38,38,35,0,3,0.921052632,0.853658537,2
+4,Drug withdrawal syndrome,13,13,12,0,1,0.923076923,0.857142857,1
+5,"CHARCOT-MARIE-TOOTH DISEASE, TYPE 4A (disorder)",11,11,9,0,2,0.818181818,0.692307692,1
+6,Prostate carcinoma,16608,16608,16000,0,608,0.963391137,0.92936803,15
+7,endogenous retrovirus group K member 20,717,717,700,0,17,0.976290098,0.953678474,3
+8,Penis carcinoma,23,23,17,0,6,0.739130435,0.586206897,1
+9,interferon lambda 2,19,19,15,0,4,0.789473684,0.652173913,1
+10,transcription factor 12,22,506,22,484,0,0.043478261,1,3
+11,AIDS-Related Non-Hodgkin Lymphoma,11,11,10,0,1,0.909090909,0.833333333,1
+12,protein-L-isoaspartate (D-aspartate) O-methyltransferase,17,46,17,29,0,0.369565217,1,1
+13,NCK associated protein 1,16,19,16,3,0,0.842105263,1,1
+14,kallikrein related peptidase 4,216,216,205,0,11,0.949074074,0.9030837,1
+15,Dyggve-Melchior-Clausen syndrome,14,14,12,0,2,0.857142857,0.75,1
+16,branched chain amino acid transaminase 1,19,19,11,0,8,0.578947368,0.407407407,7
+17,Posterior urethral valves,12,12,9,0,3,0.75,0.6,1
+18,nucleotide binding oligomerization domain containing 2,2054,2054,2000,0,54,0.973709834,0.948766603,3
+19,sorting nexin 9,13,26,13,13,0,0.5,1,0
+20,Pulmonary Alveolar Proteinosis,107,110,93,3,14,0.845454545,0.768595041,1
+21,fructosamine 3 kinase,12,26,12,14,0,0.461538462,1,3
+22,secretoglobin family 2A member 2,108,108,99,0,9,0.916666667,0.846153846,1
+23,Hurler-Scheie Syndrome,22,22,14,0,8,0.636363636,0.466666667,1
+24,syntaxin 16,20,40,20,20,0,0.5,1,3
+25,fibronectin type III and SPRY domain containing 1 like,160,160,150,0,10,0.9375,0.882352941,1
+26,AICARDI-GOUTIERES SYNDROME,68,273,68,205,0,0.249084249,1,1
+27,Stage III Colorectal Cancer,14,25,14,11,0,0.56,1,0
+28,RAPP-HODGKIN SYNDROME,49,49,40,0,9,0.816326531,0.689655172,1
+29,adenosine deaminase RNA specific,133,198,133,65,0,0.671717172,1,3
+30,"Bronchiolitis, Viral",237,237,223,0,14,0.94092827,0.888446215,1
+31,Adamantinous Craniopharyngioma,12,12,11,0,1,0.916666667,0.846153846,1
+32,Peripheral Neuropathy,673,678,660,5,13,0.973451327,0.962099125,1
+33,Sebaceous Adenocarcinoma,38,38,33,0,5,0.868421053,0.76744186,0
+34,"Neoplasms, Intracranial",78,78,72,0,6,0.923076923,0.857142857,0
+35,Nemaline myopathy 3,13,13,12,0,1,0.923076923,0.857142857,1
+36,Cerebral Aneurysm,38,38,29,0,9,0.763157895,0.617021277,1
+37,Greig cephalopolysyndactyly syndrome,71,71,66,0,5,0.929577465,0.868421053,1
+38,Crescentic Glomerulonephritis,50,50,47,0,3,0.94,0.886792453,0
+39,Inverted Papilloma,41,41,37,0,4,0.902439024,0.822222222,0
+40,Periapical Granuloma,13,13,13,0,0,1,1,1
+41,Ovarian Diseases,700,700,687,0,13,0.981428571,0.963534362,2
+42,"Alport Syndrome, X-Linked",105,105,100,0,5,0.952380952,0.909090909,0
+43,kallikrein related peptidase 12,20,20,12,0,8,0.6,0.428571429,1
+44,CROUZON SYNDROME WITH ACANTHOSIS NIGRICANS (disorder),14,14,11,0,3,0.785714286,0.647058824,1
+45,Color blindness,26,39,26,13,0,0.666666667,1,1
+46,lymphotoxin alpha,985,1970,985,985,0,0.5,1,9
+47,metal regulatory transcription factor 1,11,305,11,294,0,0.036065574,1,3
+48,Anemia of chronic disease,62,62,58,0,4,0.935483871,0.878787879,1
+49,NOTCH1 [plasma membrane],18,18,15,0,3,0.833333333,0.714285714,0
+50,Complex Regional Pain Syndromes,11,11,11,0,0,1,1,1
+51,talin 1,20,40,20,20,0,0.5,1,3
+52,Sessile Serrated Adenoma/Polyp,45,45,42,0,3,0.933333333,0.875,0
+53,Thrombocytopenic purpura,20,24,20,4,0,0.833333333,1,1
+54,Bacteroides fragilis infection in conditions classified elsewhere and of unspecified site,19,19,19,0,0,1,1,1
+55,microtubule affinity regulating kinase 4,11,11,11,0,0,1,1,1
+56,Stable angina,143,143,135,0,8,0.944055944,0.894039735,1
+57,Meningeal Carcinomatosis,16,16,13,0,3,0.8125,0.684210526,0
+58,Atypical Ductal Breast Hyperplasia,35,35,35,0,0,1,1,0
+59,ganglioside induced differentiation associated protein 1,144,288,144,144,0,0.5,1,1
+60,cyclin A1,119,238,119,119,0,0.5,1,3
+61,DNA Damage,327,5263,327,4936,0,0.062131864,1,13
+62,NOTCH2 [plasma membrane],12,12,11,0,1,0.916666667,0.846153846,1
+63,fibrinogen like 2,24,24,24,0,0,1,1,1
+64,Prenatal Exposure Delayed Effects,82,82,74,0,8,0.902439024,0.822222222,1
+65,syntaxin binding protein 2,19,38,19,19,0,0.5,1,1
+66,Virchow's node (disorder),14,14,11,0,3,0.785714286,0.647058824,0
+67,"Liver Cirrhosis, Experimental",286,286,266,0,20,0.93006993,0.869281046,1
+68,kininogen 1,261,522,261,261,0,0.5,1,2
+69,Diabetic Nephropathy,2181,2222,2000,41,181,0.900090009,0.846740051,33
+70,Epidermolysis Bullosa Simplex Kobner,29,29,25,0,4,0.862068966,0.757575758,1
+71,histatin 3,23,46,23,23,0,0.5,1,2
+72,Cholestatic liver disease,34,34,30,0,4,0.882352941,0.789473684,0
+73,septin 9,146,292,146,146,0,0.5,1,3
+74,Anthrax disease,63,63,55,0,8,0.873015873,0.774647887,1
+75,ATP/GTP binding protein like 2,14,14,14,0,0,1,1,0
+76,Classical galactosemia,120,120,98,0,22,0.816666667,0.690140845,1
+77,Renal tubular acidosis,43,117,43,74,0,0.367521368,1,1
+78,Antisocial behavior,140,141,135,1,5,0.957446809,0.931034483,1
+79,Myxoid/Round Cell Liposarcoma,36,36,36,0,0,1,1,0
+80,nuclear factor of activated T cells 5,23,23,16,0,7,0.695652174,0.533333333,1
+81,Pena-Shokeir syndrome type I,11,11,11,0,0,1,1,1
+82,Fanconi Anemia,1157,8321,1157,7164,0,0.139045788,1,30
+83,formimidoyltransferase cyclodeaminase,19,38,19,19,0,0.5,1,3
+84,"Colitis, Collagenous",18,18,15,0,3,0.833333333,0.714285714,1
+85,fungal keratitis,14,14,11,0,3,0.785714286,0.647058824,1
+86,L-2-HYDROXYGLUTARIC ACIDURIA,13,13,13,0,0,1,1,1
+87,transcription elongation regulator 1 like,14,14,14,0,0,1,1,1
+88,Origin recognition complex subunit 4,11,313,11,302,0,0.03514377,1,3
+89,Isovaleryl-CoA dehydrogenase deficiency,70,70,63,0,7,0.9,0.818181818,1
+90,sushi repeat containing protein X-linked 2,38,38,33,0,5,0.868421053,0.76744186,1
+91,"protein C, inactivator of coagulation factors Va and VIIIa",2389,2389,2000,0,389,0.837170364,0.719942405,4
+92,family with sequence similarity 126 member A,615,615,600,0,15,0.975609756,0.952380952,1
+93,Congenital amegakaryocytic thrombocytopenia,32,32,21,0,11,0.65625,0.488372093,1
+94,Anxiety Disorders,1137,1137,1000,0,137,0.879507476,0.784929356,2
+95,pricking of skin,41,41,38,0,3,0.926829268,0.863636364,1
+96,Transient Ischemic Attack,263,263,260,0,3,0.988593156,0.977443609,1
+97,aldo-keto reductase family 1 member C1,50,488,50,438,0,0.102459016,1,5
+98,High Grade Cervical Intraepithelial Neoplasia,42,42,37,0,5,0.880952381,0.787234043,1
+99,Kearns-Sayre syndrome,19,19,19,0,0,1,1,0
+100,Cutaneous Melanoma,677,677,644,0,33,0.951255539,0.907042254,2
+101,Chronic Obstructive Airway Disease,2296,2296,2000,0,296,0.871080139,0.771604938,3
+102,tubulin beta 2B class IIb,30,30,24,0,6,0.8,0.666666667,1
+103,Chronic Glomerulonephritis,21,21,19,0,2,0.904761905,0.826086957,1
+104,phosphoglycerate dehydrogenase,110,224,110,114,0,0.491071429,1,3
+105,Robinow Syndrome,45,67,45,22,0,0.671641791,1,1
+106,Common Migraine,117,117,107,0,10,0.914529915,0.842519685,1
+107,Thyroid associated opthalmopathies,231,231,212,0,19,0.917748918,0.848,1
+108,caspase 5,34,68,34,34,0,0.5,1,1
+109,cyclin dependent kinase inhibitor 1C,436,436,400,0,36,0.917431193,0.847457627,2
+110,tubulin beta 1 class VI,15,15,15,0,0,1,1,0
+111,myosin heavy chain 7,339,352,339,13,0,0.963068182,1,1
+112,fibroblast activation protein alpha,212,212,190,0,22,0.896226415,0.811965812,2
+113,"membrane bound transcription factor peptidase, site 2",86,86,80,0,6,0.930232558,0.869565217,1
+114,glycerol kinase,68,739,68,671,0,0.092016238,1,4
+115,"Foramen Ovale, Patent",27,27,22,0,5,0.814814815,0.6875,1
+116,Ethylmalonic encephalopathy,25,52,25,27,0,0.480769231,1,1
+117,cytotoxic T-lymphocyte associated protein 4,2058,2058,2000,0,58,0.971817298,0.945179584,3
+118,NIMA related kinase 1,20,29,20,9,0,0.689655172,1,1
+119,endothelin 1,1111,2222,1111,1111,0,0.5,1,7
+120,Pigmentation Disorders,14,14,11,0,3,0.785714286,0.647058824,1
+121,"protein phosphatase, Mg2+/Mn2+ dependent 1D",146,146,124,0,22,0.849315068,0.738095238,1
+122,"Paraparesis, Spastic",108,108,99,0,9,0.916666667,0.846153846,1
+123,Perivascular Epithelioid Cell Neoplasms,36,36,29,0,7,0.805555556,0.674418605,0
+124,tau tubulin kinase 2,22,44,22,22,0,0.5,1,0
+125,idiopathic hypercalciuria,18,18,16,0,2,0.888888889,0.8,0
+126,protein phosphatase 1 regulatory inhibitor subunit 1B,100,100,93,0,7,0.93,0.869158879,1
+127,Prolapsed lumbar disc,17,17,17,0,0,1,1,0
+128,claudin 16,77,154,77,77,0,0.5,1,1
+129,NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder),11,11,9,0,2,0.818181818,0.692307692,0
+130,"BRACHYDACTYLY, TYPE B1",35,35,33,0,2,0.942857143,0.891891892,1
+131,"POLYMICROGYRIA, BILATERAL FRONTOPARIETAL",26,26,22,0,4,0.846153846,0.733333333,1
+132,reticulon 2,12,24,12,12,0,0.5,1,1
+133,Nuclear receptor subfamily 1 group D member 1,96,514,96,418,0,0.186770428,1,3
+134,Nodular glomerulosclerosis,21,21,18,0,3,0.857142857,0.75,1
+135,regulatory factor X associated ankyrin containing protein,16,16,16,0,0,1,1,0
+136,NADH:Q(1) Oxidoreductase deficiency,20,20,20,0,0,1,1,1
+137,Congenital neurologic anomalies,23,23,20,0,3,0.869565217,0.769230769,1
+138,WW domain containing E3 ubiquitin protein ligase 2,11,20,11,9,0,0.55,1,1
+139,Colorectal Neoplasms,3181,3181,3000,0,181,0.943099654,0.892325996,3
+140,transcription factor 3,122,244,122,122,0,0.5,1,1
+141,T-Cell Prolymphocytic Leukemia,102,102,98,0,4,0.960784314,0.924528302,1
+142,chromogranin A,392,784,392,392,0,0.5,1,8
+143,Fetal Growth Retardation,180,180,160,0,20,0.888888889,0.8,1
+144,"Muscular Dystrophies, Limb-Girdle",505,505,499,0,6,0.988118812,0.976516634,1
+145,von Willebrand Disease,459,847,459,388,0,0.541912633,1,2
+146,angiopoietin 2,494,988,494,494,0,0.5,1,3
+147,GIPC PDZ domain containing family member 3,19,19,12,0,7,0.631578947,0.461538462,1
+148,Epidermolysis Bullosa Herpetiformis Dowling-Meara,29,29,25,0,4,0.862068966,0.757575758,1
+149,inflammatory joint disease,19,19,19,0,0,1,1,0
+150,Duodenal Neoplasms,15,15,13,0,2,0.866666667,0.764705882,1
+151,desmoglein 4,34,68,34,34,0,0.5,1,2
+152,"Meningioma, benign, no ICD-O subtype",388,388,365,0,23,0.940721649,0.888077859,1
+153,Intraepithelial Neoplasia,225,225,211,0,14,0.937777778,0.882845188,1
+154,"Rhinitis, Allergic, Perennial",45,45,36,0,9,0.8,0.666666667,1
+155,"STICKLER SYNDROME, TYPE II (disorder)",13,13,11,0,2,0.846153846,0.733333333,0
+156,complex iii deficiency,22,22,21,0,1,0.954545455,0.913043478,1
+157,microRNA 330,15,30,15,15,0,0.5,1,1
+158,insulin like growth factor binding protein 3,911,911,900,0,11,0.987925357,0.976138829,2
+159,Coronary Stenosis,156,156,121,0,35,0.775641026,0.633507853,1
+160,Polycystic Kidney Diseases,366,366,344,0,22,0.93989071,0.886597938,1
+161,"Neoplasms, Multiple Primary",36,36,32,0,4,0.888888889,0.8,1
+162,nitric oxide,35,12713,35,12678,0,0.002753087,1,29
+163,Wasting Syndrome,13,13,13,0,0,1,1,1
+164,H2.0 like homeobox,27,27,23,0,4,0.851851852,0.741935484,1
+165,Ovarian failure,84,724,84,640,0,0.116022099,1,3
+166,vasodilator stimulated phosphoprotein,30,30,29,0,1,0.966666667,0.935483871,0
+167,nuclear receptor subfamily 4 group A member 3,206,509,206,303,0,0.404715128,1,5
+168,prokineticin 2,74,148,74,74,0,0.5,1,3
+169,Vitamin A Deficiency,27,27,22,0,5,0.814814815,0.6875,1
+170,interleukin 25,61,122,61,61,0,0.5,1,3
+171,Bile Duct Neoplasms,20,20,19,0,1,0.95,0.904761905,1
+172,Torre-Muir syndrome,93,93,88,0,5,0.946236559,0.897959184,1
+173,sulfite oxidase,25,409,25,384,0,0.061124694,1,6
+174,Pelger-Huet Anomaly,20,20,14,0,6,0.7,0.538461538,0
+175,uroporphyrinogen III synthase,70,140,70,70,0,0.5,1,1
+176,glycine receptor alpha 1,120,120,104,0,16,0.866666667,0.764705882,1
+177,IgA nephropathy,150,306,150,156,0,0.490196078,1,4
+178,bromodomain adjacent to zinc finger domain 1B,18,18,18,0,0,1,1,0
+179,Congenital cataract,192,198,192,6,0,0.96969697,1,1
+180,myosin IXB,105,210,105,105,0,0.5,1,1
+181,"Depressive episode, unspecified",22,22,17,0,5,0.772727273,0.62962963,1
+182,Middle Ear Cholesteatoma,16,16,14,0,2,0.875,0.777777778,1
+183,Secondary malignant neoplasm of skin,13,13,13,0,0,1,1,1
+184,Hartnup Disease,102,102,95,0,7,0.931372549,0.871559633,1
+185,Pancreatic adenocarcinoma,596,596,500,0,96,0.838926174,0.722543353,1
+186,Seckel syndrome,67,71,67,4,0,0.943661972,1,1
+187,N-acetyltransferase 1,369,1001,369,632,0,0.368631369,1,3
+188,Alveolar Bone Loss,75,75,67,0,8,0.893333333,0.807228916,1
+189,basic helix-loop-helix family member e41,49,49,43,0,6,0.87755102,0.781818182,1
+190,Reperfusion Injury,470,470,395,0,75,0.840425532,0.724770642,1
+191,Chronic rejection of renal transplant,57,57,55,0,2,0.964912281,0.93220339,1
+192,phosphodiesterase 7B,12,24,12,12,0,0.5,1,0
+193,microtubule associated protein tau,2277,2277,2000,0,277,0.878348704,0.783085356,3
+194,syntaxin 1A,92,175,92,83,0,0.525714286,1,3
+195,Sinus Node Dysfunction (disorder),29,29,28,0,1,0.965517241,0.933333333,1
+196,ubiquitin specific peptidase 9 X-linked,40,40,33,0,7,0.825,0.70212766,1
+197,HAND DERMATITIS,12,12,12,0,0,1,1,0
+198,NEDD4 like E3 ubiquitin protein ligase,62,62,62,0,0,1,1,1
+199,Alstrom Syndrome,41,957,41,916,0,0.042842215,1,2
+200,Mixed Oligodendroglioma-Astrocytoma,32,32,29,0,3,0.90625,0.828571429,1
+201,Reticular dysgenesis,11,11,8,0,3,0.727272727,0.571428571,1
+202,Irritable Bowel Syndrome,345,345,300,0,45,0.869565217,0.769230769,1
+203,lysosomal associated membrane protein 3,84,84,76,0,8,0.904761905,0.826086957,1
+204,protein phosphatase 1 regulatory subunit 12C,19,648,19,629,0,0.029320988,1,6
+205,SLIT-ROBO Rho GTPase activating protein 2,18,36,18,18,0,0.5,1,0
+206,child abuse behavior,25,25,22,0,3,0.88,0.785714286,1
+207,MYELODYSPLASTIC SYNDROME,925,1240,925,315,0,0.745967742,1,2
+208,"Granular Dystrophy, Corneal",20,20,17,0,3,0.85,0.739130435,1
+209,Hand foot uterus syndrome,25,25,21,0,4,0.84,0.724137931,1
+210,Autosomal Dominant Parkinsonism,26,26,19,0,7,0.730769231,0.575757576,0
+211,Congenital infectious disease,12,12,11,0,1,0.916666667,0.846153846,1
+212,Kruppel-like factor 5,30,163,30,133,0,0.18404908,1,3
+213,Adenomatous Polyps,129,129,99,0,30,0.76744186,0.622641509,1
+214,transition protein 1,12,24,12,12,0,0.5,1,1
+215,Tardive Dyskinesia,234,234,221,0,13,0.944444444,0.894736842,1
+216,cysteine rich with EGF like domains 1,36,36,32,0,4,0.888888889,0.8,1
+217,Romano-Ward Syndrome,85,85,79,0,6,0.929411765,0.868131868,0
+218,Cocaine-Related Disorders,259,259,211,0,48,0.814671815,0.687296417,1
+219,TAK1 complex [cytosol],14,14,12,0,2,0.857142857,0.75,1
+220,Shprintzen syndrome,224,224,200,0,24,0.892857143,0.806451613,1
+221,gap junction protein alpha 4,106,106,99,0,7,0.933962264,0.876106195,1
+222,TGF-beta activated kinase 1 (MAP3K7) binding protein 2,22,22,22,0,0,1,1,0
+223,ADAM metallopeptidase with thrombospondin type 1 motif 5,60,60,54,0,6,0.9,0.818181818,0
+224,Solute carrier family 22 member 17,14,426,14,412,0,0.03286385,1,1
+225,Sudden infant death syndrome,286,286,231,0,55,0.807692308,0.677419355,1
+226,Hepatosplenic T-Cell Lymphoma,11,11,11,0,0,1,1,0
+227,Alcohol abuse,221,221,200,0,21,0.904977376,0.826446281,1
+228,actin filament associated protein 1 like 2,11,11,7,0,4,0.636363636,0.466666667,1
+229,ankyrin 3,124,248,124,124,0,0.5,1,1
+230,Neurofibromatosis-Noonan syndrome,23,23,21,0,2,0.913043478,0.84,1
+231,myosin XVIIIB,27,54,27,27,0,0.5,1,1
+232,Intestinal Pseudo-Obstruction,21,21,19,0,2,0.904761905,0.826086957,1
+233,MAPKs [cytosol],18,18,17,0,1,0.944444444,0.894736842,0
+234,"Aplastic anemia, idiopathic",12,12,7,0,5,0.583333333,0.411764706,1
+235,PTEN Hamartoma Tumor Syndrome,30,31,28,1,2,0.903225806,0.875,1
+236,Neurotoxicity Syndromes,42,42,39,0,3,0.928571429,0.866666667,1
+237,dynein axonemal heavy chain 8,772,772,700,0,72,0.906735751,0.829383886,2
+238,Ichthyosis Bullosa of Siemens,186,186,122,0,64,0.655913978,0.488,1
+239,contactin 6,19,38,19,19,0,0.5,1,3
+240,Swyer Syndrome,26,26,26,0,0,1,1,0
+241,Hyperimmunoglobulin M syndrome,96,96,80,0,16,0.833333333,0.714285714,1
+242,"stage, non-small cell lung cancer",75,75,72,0,3,0.96,0.923076923,1
+243,Ichthyosis Vulgaris,81,81,78,0,3,0.962962963,0.928571429,1
+244,Pfaundler-Hurler Syndrome,71,71,65,0,6,0.915492958,0.844155844,1
+245,neurobeachin like 2,24,24,22,0,2,0.916666667,0.846153846,1
+246,oxidative stress responsive serine rich 1,15,15,10,0,5,0.666666667,0.5,1
+247,"POPLITEAL PTERYGIUM SYNDROME, LETHAL TYPE",14,14,13,0,1,0.928571429,0.866666667,0
+248,aldo-keto reductase family 1 member B10,115,476,115,361,0,0.241596639,1,1
+249,"Plaque, Amyloid",639,639,600,0,39,0.938967136,0.884955752,1
+250,myosin VIIA,207,426,207,219,0,0.485915493,1,3
+251,Cystic Kidney Diseases,50,50,48,0,2,0.96,0.923076923,1
+252,Van Buchem disease,23,26,23,3,0,0.884615385,1,1
+253,Mood Disorders,831,831,800,0,31,0.962695548,0.928074246,1
+254,"Carcinoma, Spindle-Cell",30,30,27,0,3,0.9,0.818181818,0
+255,Pediatric Obesity,96,96,87,0,9,0.90625,0.828571429,0
+256,Protein disulfide-isomerase,11,4350,11,4339,0,0.002528736,1,15
+257,ectodysplasin A receptor,62,124,62,62,0,0.5,1,3
+258,Respiratory distress,57,635,57,578,0,0.08976378,1,5
+259,21-hydroxylase deficiency,248,248,221,0,27,0.891129032,0.803636364,1
+260,hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase,59,59,43,0,16,0.728813559,0.573333333,0
+261,Liver Cirrhosis,1933,2460,1933,527,0,0.785772358,1,3
+262,Non-Functioning Pituitary Gland Neoplasm,12,12,5,0,7,0.416666667,0.263157895,0
+263,Oropharyngeal Neoplasms,27,27,25,0,2,0.925925926,0.862068966,0
+264,Partial Trisomy,61,61,57,0,4,0.93442623,0.876923077,0
+265,interleukin 12 receptor subunit beta 1,115,115,100,0,15,0.869565217,0.769230769,1
+266,serine/threonine kinase 3,18,231,18,213,0,0.077922078,1,3
+267,Hypokalemic alkalosis,12,12,11,0,1,0.916666667,0.846153846,1
+268,"glucosidase alpha, acid",479,479,400,0,79,0.835073069,0.716845878,1
+269,cervical cancer squamous cell,18,18,15,0,3,0.833333333,0.714285714,1
+270,Action Myoclonus-Renal Failure Syndrome,13,13,11,0,2,0.846153846,0.733333333,0
+271,CCAAT enhancer binding protein delta,79,79,63,0,16,0.797468354,0.663157895,1
+272,protein tyrosine phosphatase receptor type K,23,23,22,0,1,0.956521739,0.916666667,1
+273,"LACTOSE INTOLERANCE, ADULT TYPE",29,29,25,0,4,0.862068966,0.757575758,1
+274,Split hand foot deformity 1,112,112,98,0,14,0.875,0.777777778,1
+275,vitamin K epoxide reductase complex subunit 1,203,946,203,743,0,0.214587738,1,8
+276,insulin like growth factor 2 mRNA binding protein 3,88,88,80,0,8,0.909090909,0.833333333,1
+277,Hypoplasia of corpus callosum,14,14,14,0,0,1,1,0
+278,Type I Mucolipidosis,58,58,53,0,5,0.913793103,0.841269841,0
+279,myelin protein zero like 1,13,13,13,0,0,1,1,1
+280,Jervell-Lange Nielsen Syndrome,75,75,71,0,4,0.946666667,0.898734177,1
+281,glycoprotein IX platelet,86,86,79,0,7,0.918604651,0.849462366,1
+282,Colonic Polyps,109,109,91,0,18,0.834862385,0.716535433,1
+283,Lytic lesion,23,23,19,0,4,0.826086957,0.703703704,1
+284,"Hemorrhagic Fever, Ebola",31,31,29,0,2,0.935483871,0.878787879,1
+285,Ovarian Clear Cell Adenocarcinoma,28,28,21,0,7,0.75,0.6,1
+286,Benign Meningioma,27,27,26,0,1,0.962962963,0.928571429,1
+287,Xenograft Model,887,887,800,0,87,0.901916573,0.821355236,1
+288,R-spondin 2,13,26,13,13,0,0.5,1,1
+289,Ovarian Hyperstimulation Syndrome,104,104,96,0,8,0.923076923,0.857142857,1
+290,solute carrier family 38 member 1,694,695,680,1,14,0.978417266,0.960451977,2
+291,beclin 1,304,916,304,612,0,0.331877729,1,3
+292,Hairy Cell Leukemia,251,256,251,5,0,0.98046875,1,1
+293,codanin 1,47,94,47,47,0,0.5,1,8
+294,Glycogen Storage Disease Type VII,26,29,22,3,4,0.75862069,0.733333333,0
+295,"Chromosome 10, monosomy 10q",15,15,15,0,0,1,1,1
+296,"Tuberculosis, Pulmonary",851,851,833,0,18,0.978848414,0.958573072,1
+297,succinic semialdehyde,12,31,12,19,0,0.387096774,1,1
+298,Meningococcal meningitis,24,24,22,0,2,0.916666667,0.846153846,0
+299,calcium/calmodulin dependent protein kinase II alpha,22,22,20,0,2,0.909090909,0.833333333,1
+300,"Myoclonic Epilepsy, Juvenile",160,162,156,2,4,0.962962963,0.951219512,1
+301,ANOPHTHALMIA AND PULMONARY HYPOPLASIA,13,13,11,0,2,0.846153846,0.733333333,1
+302,Tumor Expansion,26,26,21,0,5,0.807692308,0.677419355,0
+303,angiopoietin like 2,75,75,69,0,6,0.92,0.851851852,1
+304,DDB1 and CUL4 associated factor 6,29,58,29,29,0,0.5,1,3
+305,Brain Neoplasms,1614,1614,1434,0,180,0.888475836,0.799331104,3
+306,Ventricular Dysfunction,19,110,19,91,0,0.172727273,1,0
+307,vesicle associated membrane protein 3,11,11,11,0,0,1,1,1
+308,Mature Teratoma,13,13,13,0,0,1,1,1
+309,chronic urticaria,25,25,22,0,3,0.88,0.785714286,0
+310,Primary Carcinoma,64,64,60,0,4,0.9375,0.882352941,1
+311,Uterine Corpus Sarcoma,20,20,19,0,1,0.95,0.904761905,1
+312,Kruppel like factor 5,133,133,122,0,11,0.917293233,0.847222222,1
+313,protein tyrosine phosphatase receptor type A,93,93,87,0,6,0.935483871,0.878787879,0
+314,Immune thrombocytopenic purpura,255,255,232,0,23,0.909803922,0.834532374,1
+315,nescient helix-loop-helix 1,63,63,57,0,6,0.904761905,0.826086957,0
+316,Animal Mammary Neoplasms,405,405,399,0,6,0.985185185,0.97080292,1
+317,"LEBER CONGENITAL AMAUROSIS, TYPE II (disorder)",15,15,13,0,2,0.866666667,0.764705882,0
+318,"Liposarcoma, Dedifferentiated",80,80,73,0,7,0.9125,0.83908046,1
+319,"Obesity, Abdominal",175,175,166,0,9,0.948571429,0.902173913,1
+320,"Eye Diseases, Hereditary",11,11,9,0,2,0.818181818,0.692307692,0
+321,"Epilepsy, Myoclonic, Infantile",12,12,12,0,0,1,1,1
+322,CCAAT enhancer binding protein zeta,54,54,47,0,7,0.87037037,0.770491803,1
+323,Neuroblastic Tumor,13,13,11,0,2,0.846153846,0.733333333,1
+324,Adenocarcinoma of colon,367,367,345,0,22,0.940054496,0.88688946,1
+325,Parathyroid Gland Adenocarcinoma,117,117,110,0,7,0.94017094,0.887096774,0
+326,Apolipoprotein E,8737,17836,8737,9099,0,0.489851985,1,24
+327,"BH3-like motif containing, cell death inducer",11,22,11,11,0,0.5,1,0
+328,"Spastic paraplegia 4, autosomal dominant",31,31,29,0,2,0.935483871,0.878787879,1
+329,sarcoglycan gamma,334,334,300,0,34,0.898203593,0.815217391,2
+330,Bardet-Biedl syndrome 4,44,497,44,453,0,0.088531187,1,5
+331,cyclin dependent kinase 2 associated protein 2,53,53,43,0,10,0.811320755,0.682539683,0
+332,protein kinase C eta,70,522,70,452,0,0.134099617,1,15
+333,Hypopigmentation disorder,110,110,96,0,14,0.872727273,0.774193548,1
+334,"THYROID HORMONE RESISTANCE, GENERALIZED, AUTOSOMAL DOMINANT",23,23,22,0,1,0.956521739,0.916666667,0
+335,CHROMOSOME 8p11 MYELOPROLIFERATIVE SYNDROME,15,15,13,0,2,0.866666667,0.764705882,1
+336,"Sarcoma, Epithelioid",48,48,45,0,3,0.9375,0.882352941,1
+337,metastatic osteosarcoma,26,26,26,0,0,1,1,1
+338,"Hyperoxaluria, Primary",27,31,27,4,0,0.870967742,1,1
+339,cyclin A2,145,290,145,145,0,0.5,1,3
+340,Endemic Cretinism,272,272,254,0,18,0.933823529,0.875862069,0
+341,Vulval intraepithelial neoplasia,51,51,49,0,2,0.960784314,0.924528302,1
+342,Craniofrontonasal dysplasia,31,31,31,0,0,1,1,0
+343,"Muscular Atrophy, Spinal, Type II",16,16,16,0,0,1,1,0
+344,G protein-coupled receptor 55,20,40,20,20,0,0.5,1,1
+345,follistatin like 1,56,56,45,0,11,0.803571429,0.671641791,1
+346,Complete Hearing Loss,48,48,43,0,5,0.895833333,0.811320755,1
+347,G protein-coupled receptor 35,11,22,11,11,0,0.5,1,0
+348,"Nephrogenic Diabetes Insipidus, Type I",184,201,184,17,0,0.915422886,1,1
+349,orbit (eye disorders),29,29,27,0,2,0.931034483,0.870967742,0
+350,COPPER-OVERLOAD CIRRHOSIS,11,11,11,0,0,1,1,1
+351,coenzyme A,472,542,472,70,0,0.870848708,1,1
+352,AIDS-Related Opportunistic Infections,18,18,15,0,3,0.833333333,0.714285714,0
+353,microRNA 146a,549,1098,549,549,0,0.5,1,8
+354,Paroxysmal nocturnal hemoglobinuria,341,341,321,0,20,0.941348974,0.889196676,1
+355,Tongue Neoplasms,46,46,44,0,2,0.956521739,0.916666667,1
+356,"ECTRODACTYLY, ECTODERMAL DYSPLASIA, AND CLEFT LIP/PALATE SYNDROME 1",81,81,76,0,5,0.938271605,0.88372093,0
+357,Stage 4S neuroblastoma,48,48,43,0,5,0.895833333,0.811320755,1
+358,ISG15 ubiquitin like modifier,101,101,91,0,10,0.900990099,0.81981982,1
+359,Gingival Hemorrhage,12,12,12,0,0,1,1,0
+360,advanced glycosylation end-product specific receptor,407,407,380,0,27,0.933660934,0.875576037,2
+361,Exonuclease 1,80,968,80,888,0,0.082644628,1,2
+362,class II major histocompatibility complex transactivator,154,154,121,0,33,0.785714286,0.647058824,1
+363,solute carrier family 22 member 23,14,395,14,381,0,0.035443038,1,5
+364,Tn antigens [Golgi lumen],12,12,12,0,0,1,1,0
+365,"Chondrodysplasia, Grebe type",12,12,12,0,0,1,1,0
+366,Bartter Disease,122,122,122,0,0,1,1,1
+367,TSPY like 2,43,43,39,0,4,0.906976744,0.829787234,0
+368,Cervix carcinoma,3356,3356,3221,0,135,0.95977354,0.922658264,5
+369,malignant fibrous histiocytoma amplified sequence 1,12,24,12,12,0,0.5,1,1
+370,activity regulated cytoskeleton associated protein,41,41,37,0,4,0.902439024,0.822222222,1
+371,protein phosphatase 1 regulatory inhibitor subunit 14A,11,11,11,0,0,1,1,0
+372,"Carcinoma, Neuroendocrine",79,79,63,0,16,0.797468354,0.663157895,1
+373,Squamous cell carcinoma of esophagus,2058,2058,1997,0,61,0.970359572,0.942425672,3
+374,22q11 Deletion Syndrome,42,42,39,0,3,0.928571429,0.866666667,1
+375,Japanese Encephalitis,87,87,85,0,2,0.977011494,0.95505618,0
+376,"HEMATURIA, BENIGN FAMILIAL",31,31,25,0,6,0.806451613,0.675675676,1
+377,cyclin dependent kinase 3,14,14,13,0,1,0.928571429,0.866666667,1
+378,Hypotrichosis simplex,34,34,29,0,5,0.852941176,0.743589744,0
+379,leukocyte associated immunoglobulin like receptor 1,11,11,11,0,0,1,1,1
+380,"MIGRAINE, FAMILIAL HEMIPLEGIC, 2",31,31,26,0,5,0.838709677,0.722222222,0
+381,CAMPTODACTYLY-ARTHROPATHY-COXA VARA-PERICARDITIS SYNDROME,13,13,11,0,2,0.846153846,0.733333333,1
+382,Craniofacial Dysostosis,62,138,62,76,0,0.449275362,1,1
+383,Platelet endothelial cell adhesion molecule,35,720,35,685,0,0.048611111,1,4
+384,Malignant neoplasm of oropharynx,63,63,55,0,8,0.873015873,0.774647887,1
+385,receptor activity modifying protein 2,29,29,29,0,0,1,1,1
+386,"Malaria, Cerebral",193,198,193,5,0,0.974747475,1,1
+387,Schizophrenia and related disorders,17,17,12,0,5,0.705882353,0.545454545,1
+388,Speech Delay,22,22,19,0,3,0.863636364,0.76,0
+389,"Hypomagnesemia 2, renal",11,11,11,0,0,1,1,1
+390,calpain 10,364,728,364,364,0,0.5,1,3
+391,laminin subunit alpha 4,42,42,39,0,3,0.928571429,0.866666667,1
+392,Dystonia Musculorum Deformans,98,98,86,0,12,0.87755102,0.781818182,1
+393,growth differentiation factor 15,358,716,358,358,0,0.5,1,9
+394,Mixed Connective Tissue Disease,50,50,44,0,6,0.88,0.785714286,0
+395,Severe combined immunodeficiency due to adenosine deaminase deficiency,39,39,39,0,0,1,1,0
+396,hydroxysteroid 17-beta dehydrogenase 6,157,157,119,0,38,0.757961783,0.61025641,1
+397,protein kinase C epsilon,81,431,81,350,0,0.187935035,1,2
+398,Origin recognition complex subunit 1,38,347,38,309,0,0.109510086,1,2
+399,Eye Neoplasms,17,17,15,0,2,0.882352941,0.789473684,1
+400,"Cholestasis, Extrahepatic",27,27,23,0,4,0.851851852,0.741935484,0
+401,CASP8 and FADD like apoptosis regulator,223,223,216,0,7,0.968609865,0.939130435,1
+402,pyruvate carboxylase,252,915,252,663,0,0.275409836,1,2
+403,Merkel Cell Polyomavirus Infection,12,12,11,0,1,0.916666667,0.846153846,1
+404,Hereditary pancreatitis,336,336,321,0,15,0.955357143,0.914529915,1
+405,Neuronal Ceroid-Lipofuscinoses,269,269,255,0,14,0.94795539,0.901060071,1
+406,Arsenic Poisoning,79,79,71,0,8,0.898734177,0.816091954,0
+407,"golgin, RAB6 interacting",22,22,19,0,3,0.863636364,0.76,1
+408,Congenital abnormality of vein,12,12,11,0,1,0.916666667,0.846153846,0
+409,calcium/calmodulin dependent serine protein kinase,65,65,63,0,2,0.969230769,0.940298507,1
+410,Tumor Initiation,262,262,223,0,39,0.851145038,0.740863787,1
+411,metallothionein 1H,35,180,35,145,0,0.194444444,1,3
+412,"Graft Occlusion, Vascular",27,27,23,0,4,0.851851852,0.741935484,1
+413,Polycythemia Vera,924,924,880,0,44,0.952380952,0.909090909,2
+414,Systemic Anaplastic Large Cell Lymphoma,22,22,19,0,3,0.863636364,0.76,0
+415,Excessive daytime somnolence,17,17,15,0,2,0.882352941,0.789473684,1
+416,Coronary Arteriosclerosis,4010,4010,3997,0,13,0.996758105,0.993537161,4
+417,epoxide hydrolase 2,117,234,117,117,0,0.5,1,2
+418,cerebellar degeneration related protein 2,46,46,43,0,3,0.934782609,0.87755102,0
+419,prostaglandin F2alpha,12,12,12,0,0,1,1,1
+420,Diabetic foot ulcer,24,24,19,0,5,0.791666667,0.655172414,0
+421,MCM2-7 [nucleoplasm],14,14,14,0,0,1,1,1
+422,interferon induced protein 44,34,38,34,4,0,0.894736842,1,0
+423,Laron Syndrome,208,214,208,6,0,0.971962617,1,1
+424,Urinary tract infection,176,176,166,0,10,0.943181818,0.892473118,1
+425,casein kinase 1 epsilon,41,41,39,0,2,0.951219512,0.906976744,0
+426,TIA1 cytotoxic granule associated RNA binding protein,48,59,48,11,0,0.813559322,1,1
+427,nuclear receptor subfamily 5 group A member 2,92,92,87,0,5,0.945652174,0.896907216,0
+428,Prothrombin gene mutation,68,68,54,0,14,0.794117647,0.658536585,1
+429,Ataxia Telangiectasia,943,943,898,0,45,0.952279958,0.908906883,1
+430,cyclin dependent kinase 2,635,725,635,90,0,0.875862069,1,1
+431,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2B",62,62,57,0,5,0.919354839,0.850746269,1
+432,paired like homeodomain 3,114,114,98,0,16,0.859649123,0.753846154,1
+433,"Hyperparathyroidism, Primary",298,298,255,0,43,0.855704698,0.747800587,1
+434,AKT interacting protein,14,28,14,14,0,0.5,1,0
+435,Rapidly Progressive Glomerulonephritis,11,11,9,0,2,0.818181818,0.692307692,1
+436,protein tyrosine phosphatase receptor type T,36,36,36,0,0,1,1,1
+437,Tumor Virus Infections,23,23,22,0,1,0.956521739,0.916666667,0
+438,Hirschsprung disease 1,342,342,321,0,21,0.938596491,0.884297521,1
+439,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2B (disorder)",15,15,15,0,0,1,1,1
+440,cullin 2,25,50,25,25,0,0.5,1,1
+441,Radicular Cyst,20,20,19,0,1,0.95,0.904761905,1
+442,serine/threonine kinase 4,69,142,69,73,0,0.485915493,1,3
+443,"Hyperalgesia, Thermal",41,41,39,0,2,0.951219512,0.906976744,0
+444,RAS guanyl releasing protein 1,34,67,34,33,0,0.507462687,1,1
+445,Bamforth syndrome,14,14,11,0,3,0.785714286,0.647058824,1
+446,Situs ambiguus,46,46,43,0,3,0.934782609,0.87755102,1
+447,CD5 molecule like,16,16,14,0,2,0.875,0.777777778,1
+448,phospholipase A2 group XV,21,281,21,260,0,0.074733096,1,3
+449,Malignant neoplasm of brain,208,208,198,0,10,0.951923077,0.908256881,1
+450,Spinocerebellar Ataxia Type 1,178,178,144,0,34,0.808988764,0.679245283,1
+451,eukaryotic translation initiation factor 4E binding protein 1,162,324,162,162,0,0.5,1,1
+452,aldehyde dehydrogenase 4 family member A1,14,14,12,0,2,0.857142857,0.75,0
+453,glycoprotein V platelet,13,13,11,0,2,0.846153846,0.733333333,1
+454,insulin like growth factor binding protein 4,66,66,58,0,8,0.878787879,0.783783784,1
+455,Russell Silver syndrome,34,68,34,34,0,0.5,1,1
+456,Bloch Sulzberger syndrome,80,80,76,0,4,0.95,0.904761905,1
+457,semaphorin 3D,12,12,12,0,0,1,1,1
+458,pyruvic acid,57,60,57,3,0,0.95,1,1
+459,"renalase, FAD dependent amine oxidase",34,34,30,0,4,0.882352941,0.789473684,1
+460,interleukin 1 receptor type 2,72,72,65,0,7,0.902777778,0.82278481,2
+461,"CLEFT PALATE, X-LINKED",26,26,26,0,0,1,1,1
+462,metallothionein 1F,42,84,42,42,0,0.5,1,1
+463,"HOMOCYSTINURIA DUE TO DEFICIENCY OF N(5,10)-METHYLENETETRAHYDROFOLATE REDUCTASE ACTIVITY",16,16,12,0,4,0.75,0.6,1
+464,"Xeroderma pigmentosum, variant type",11,11,11,0,0,1,1,1
+465,Wiskott-Aldrich Syndrome,279,1671,279,1392,0,0.166965889,1,4
+466,"Pneumonia, Ventilator-Associated",20,20,18,0,2,0.9,0.818181818,1
+467,interleukin 7,323,1160,323,837,0,0.278448276,1,6
+468,Autonomic nervous system disorders,18,18,18,0,0,1,1,1
+469,Chronic Cholecystitis,18,18,14,0,4,0.777777778,0.636363636,1
+470,BETA THALASSEMIA TRAIT,113,113,102,0,11,0.902654867,0.822580645,1
+471,acyl-CoA oxidase like,14,14,11,0,3,0.785714286,0.647058824,1
+472,Idiopathic pulmonary hypertension,547,547,544,0,3,0.994515539,0.989090909,1
+473,Sentinel node (disorder),60,60,55,0,5,0.916666667,0.846153846,1
+474,growth differentiation factor 6,53,106,53,53,0,0.5,1,3
+475,"Cirrhosis, cryptogenic",12,12,12,0,0,1,1,1
+476,Familial Atypical Multiple Mole-Melanoma,16,16,16,0,0,1,1,1
+477,Male infertility,809,809,809,0,0,1,1,2
+478,Epithelial cyst,25,25,23,0,2,0.92,0.851851852,1
+479,small ubiquitin like modifier 2,23,23,19,0,4,0.826086957,0.703703704,0
+480,polybromo 1,85,170,85,85,0,0.5,1,3
+481,Waardenburg Syndrome Type 2,36,36,33,0,3,0.916666667,0.846153846,1
+482,Glucose Metabolism Disorders,15,15,13,0,2,0.866666667,0.764705882,1
+483,Dry Eye Syndromes,64,64,59,0,5,0.921875,0.855072464,1
+484,Abdominal Neoplasms,11,11,11,0,0,1,1,0
+485,interferon regulatory factor 2 binding protein 2,11,22,11,11,0,0.5,1,0
+486,"DEVELOPMENTAL DELAY, EPILEPSY, AND NEONATAL DIABETES",13,13,13,0,0,1,1,1
+487,Cytochrome-c Oxidase Deficiency,155,155,143,0,12,0.922580645,0.856287425,0
+488,Potocki-Lupski syndrome,35,47,35,12,0,0.744680851,1,1
+489,"Hypertension, Renovascular",53,53,49,0,4,0.924528302,0.859649123,0
+490,bleeding ulcer,12,12,11,0,1,0.916666667,0.846153846,0
+491,Prostatic Hyperplasia,150,150,142,0,8,0.946666667,0.898734177,1
+492,"Xanthomatosis, Cerebrotendinous",94,94,91,0,3,0.968085106,0.93814433,1
+493,Acute Lung Injury,96,96,87,0,9,0.90625,0.828571429,0
+494,serum/glucocorticoid regulated kinase family member 3,13,13,13,0,0,1,1,1
+495,ADAM metallopeptidase with thrombospondin type 1 motif 9,66,66,60,0,6,0.909090909,0.833333333,3
+496,Multiple self-healing squamous epithelioma,13,13,12,0,1,0.923076923,0.857142857,1
+497,musashi RNA binding protein 2,23,23,20,0,3,0.869565217,0.769230769,3
+498,serine dehydratase,289,939,289,650,0,0.307774228,1,5
+499,Mental Retardation,1454,2235,1454,781,0,0.650559284,1,4
+500,GRB2 associated binding protein 2,96,96,88,0,8,0.916666667,0.846153846,1
+501,kelch like family member 2,28,34,28,6,0,0.823529412,1,1
+502,Spina Bifida,295,314,295,19,0,0.939490446,1,1
+503,"Ectodermal dysplasia, hypohidrotic, with immune deficiency",24,24,22,0,2,0.916666667,0.846153846,0
+504,fasciculation and elongation protein zeta 1,40,80,40,40,0,0.5,1,3
+505,glutathione S-transferase C-terminal domain containing,12,12,12,0,0,1,1,1
+506,Uremia syndrome,108,108,98,0,10,0.907407407,0.830508475,1
+507,Fas associated factor 1,23,23,23,0,0,1,1,0
+508,Nodular Lymphocyte Predominant Hodgkin Lymphoma,14,14,11,0,3,0.785714286,0.647058824,1
+509,Breast Diseases,76,76,67,0,9,0.881578947,0.788235294,1
+510,Polyarteritis Nodosa,20,20,19,0,1,0.95,0.904761905,1
+511,Warburg Sjo Fledelius syndrome,29,29,24,0,5,0.827586207,0.705882353,0
+512,"Microangiopathy, Diabetic",14,14,11,0,3,0.785714286,0.647058824,0
+513,"Hand, Foot and Mouth Disease",11,11,11,0,0,1,1,1
+514,Loeys-Dietz Aortic Aneurysm Syndrome,15,15,13,0,2,0.866666667,0.764705882,2
+515,Exfoliation Syndrome,184,184,170,0,14,0.923913043,0.858585859,1
+516,"CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2K",16,16,16,0,0,1,1,1
+517,dipeptidase 2,64,442,64,378,0,0.14479638,1,2
+518,Pulmonary function,296,678,296,382,0,0.436578171,1,3
+519,Anaplastic thyroid carcinoma,456,456,444,0,12,0.973684211,0.948717949,1
+520,Sleep Deprivation,21,21,20,0,1,0.952380952,0.909090909,1
+521,"Myopia, Degenerative",20,20,17,0,3,0.85,0.739130435,0
+522,Precursor Cell Lymphoblastic Leukemia Lymphoma,3812,3812,3766,0,46,0.987932844,0.976153447,5
+523,progesterone receptor,1762,4736,1762,2974,0,0.372043919,1,7
+524,"Glaucoma, Open-Angle",337,337,303,0,34,0.899109792,0.81671159,1
+525,TESTICULAR GERM CELL TUMOR,154,167,154,13,0,0.922155689,1,1
+526,filamin A interacting protein 1 like,29,29,25,0,4,0.862068966,0.757575758,1
+527,Refractive Errors,49,49,44,0,5,0.897959184,0.814814815,1
+528,MITOCHONDRIAL DNA DEPLETION SYNDROME 3 (HEPATOCEREBRAL TYPE),11,11,11,0,0,1,1,1
+529,"Cystadenocarcinoma, Mucinous",18,18,17,0,1,0.944444444,0.894736842,1
+530,"inositol 1,4,5-trisphosphate receptor type 1",130,1495,130,1365,0,0.086956522,1,10
+531,Alveolar echinococcosis,22,22,19,0,3,0.863636364,0.76,1
+532,Mitochondrial encephalopathy,11,12,11,1,0,0.916666667,1,0
+533,nuclear receptor subfamily 0 group B member 2,253,418,253,165,0,0.605263158,1,2
+534,Hemorrhagic Disorders,50,50,48,0,2,0.96,0.923076923,0
+535,cytidine deaminase,136,501,136,365,0,0.271457086,1,3
+536,"MESOMELIC DYSPLASIA, KANTAPUTRA TYPE",16,27,16,11,0,0.592592593,1,1
+537,Fukuyama Type Congenital Muscular Dystrophy,107,107,99,0,8,0.925233645,0.860869565,1
+538,Acromesomelic dysplasia Hunter-Thompson type,15,15,15,0,0,1,1,0
+539,gap junction protein beta 3,162,162,156,0,6,0.962962963,0.928571429,0
+540,interferon alpha inducible protein 27,595,595,577,0,18,0.969747899,0.941272431,1
+541,Carcinoma in situ of uterine cervix,96,96,90,0,6,0.9375,0.882352941,0
+542,NLR family apoptosis inhibitory protein,106,106,96,0,10,0.905660377,0.827586207,1
+543,"VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)",176,176,167,0,9,0.948863636,0.902702703,1
+544,small proline rich protein 1A,12,12,11,0,1,0.916666667,0.846153846,0
+545,AKT [cytosol],12,12,12,0,0,1,1,0
+546,Adrenal Cortical Adenoma,144,144,132,0,12,0.916666667,0.846153846,2
+547,Lysosomal Storage Diseases,402,402,388,0,14,0.965174129,0.932692308,1
+548,TNF receptor associated factor 5,20,20,17,0,3,0.85,0.739130435,1
+549,Sotos' syndrome,100,100,96,0,4,0.96,0.923076923,1
+550,Ectodermal dysplasia/ skin fragility syndrome,13,13,13,0,0,1,1,6
+551,Angina Pectoris,56,77,56,21,0,0.727272727,1,1
+552,Uterine Cancer,65,65,63,0,2,0.969230769,0.940298507,1
+553,Metastatic Malignant Neoplasm to the Leptomeninges,33,33,29,0,4,0.878787879,0.783783784,0
+554,Lafora Disease,164,164,157,0,7,0.957317073,0.918128655,1
+555,interferon induced protein with tetratricopeptide repeats 1,19,19,19,0,0,1,1,1
+556,Nuclear cataract,30,30,28,0,2,0.933333333,0.875,1
+557,Kaposi Sarcoma,336,336,321,0,15,0.955357143,0.914529915,1
+558,huntingtin interacting protein 1,47,126,47,79,0,0.373015873,1,1
+559,"Carcinoma, Ehrlich Tumor",25,25,20,0,5,0.8,0.666666667,0
+560,iron responsive element binding protein 2,47,47,41,0,6,0.872340426,0.773584906,1
+561,Morphine Dependence,22,22,22,0,0,1,1,0
+562,"Nephroblastomatosis, fetal ascites, macrosomia and Wilms tumor",12,12,12,0,0,1,1,1
+563,WAS/WASL interacting protein family member 1,19,19,15,0,4,0.789473684,0.652173913,0
+564,ZFP36 ring finger protein like 2,25,25,23,0,2,0.92,0.851851852,3
+565,cyclin dependent kinase 5,166,266,145,100,21,0.545112782,0.77540107,4
+566,"Lymphohistiocytosis, Hemophagocytic",319,319,308,0,11,0.965517241,0.933333333,1
+567,X-Linked Lissencephaly,66,66,60,0,6,0.909090909,0.833333333,0
+568,mitogen-activated protein kinase kinase 1,322,630,322,308,0,0.511111111,1,5
+569,cholesteryl ester transfer protein,969,2560,969,1591,0,0.378515625,1,5
+570,Nuclear non-senile cataract,28,28,23,0,5,0.821428571,0.696969697,0
+571,Brody myopathy,21,21,21,0,0,1,1,1
+572,Allograft Rejection,12,12,12,0,0,1,1,1
+573,egl-9 family hypoxia inducible factor 1,105,105,96,0,9,0.914285714,0.842105263,0
+574,Popliteal pterygium syndrome,21,35,21,14,0,0.6,1,0
+575,Endocrine Gland Neoplasms,71,71,67,0,4,0.943661972,0.893333333,1
+576,purine nucleoside phosphorylase,109,737,109,628,0,0.147896879,1,2
+577,BMP binding endothelial regulator,39,78,39,39,0,0.5,1,0
+578,Microsatellite Instability,111,111,101,0,10,0.90990991,0.834710744,0
+579,Premature Ejaculation,17,17,17,0,0,1,1,0
+580,aryl-hydrocarbon receptor repressor,32,64,32,32,0,0.5,1,1
+581,transcription factor AP-2 beta,75,150,75,75,0,0.5,1,3
+582,Hepatopulmonary Syndrome,108,108,99,0,9,0.916666667,0.846153846,0
+583,Myoclonic dystonia,114,114,95,0,19,0.833333333,0.714285714,1
+584,"Micronuclei, Chromosome-Defective",21,21,20,0,1,0.952380952,0.909090909,0
+585,Cognition Disorders,81,81,77,0,4,0.950617284,0.905882353,0
+586,"Carcinoma, Papillary",640,640,633,0,7,0.9890625,0.978361669,1
+587,Glycogen storage disease type Ia,36,36,33,0,3,0.916666667,0.846153846,1
+588,Abnormal mental state,40,40,40,0,0,1,1,1
+589,Rheumatoid Arthritis,10004,10049,10004,45,0,0.995521942,1,9
+590,Multiple Sclerosis,4570,4880,4570,310,0,0.93647541,1,6
+591,family with sequence similarity 72 member B,49,49,43,0,6,0.87755102,0.781818182,0
+592,Woolly hair,29,41,29,12,0,0.707317073,1,1
+593,pregnancy specific beta-1-glycoprotein 5,11,22,11,11,0,0.5,1,1
+594,Thoracic Neoplasms,18,18,16,0,2,0.888888889,0.8,0
+595,Sporadic Breast Carcinoma,482,482,477,0,5,0.989626556,0.979466119,2
+596,Familial Periodic Paralysis,48,48,44,0,4,0.916666667,0.846153846,1
+597,gap junction protein alpha 8,196,196,188,0,8,0.959183673,0.921568627,1
+598,Antisocial Personality Disorder,91,91,83,0,8,0.912087912,0.838383838,1
+599,Female Breast Carcinoma,125,125,120,0,5,0.96,0.923076923,1
+600,specific language impairment,35,59,35,24,0,0.593220339,1,1
+601,Pick Disease of the Brain,926,926,912,0,14,0.98488121,0.970212766,1
+602,semaphorin 6A,400,400,380,0,20,0.95,0.904761905,1
+603,hydroxysteroid 11-beta dehydrogenase 1,183,187,183,4,0,0.978609626,1,1
+604,Ataxia with vitamin E deficiency,49,49,46,0,3,0.93877551,0.884615385,1
+605,Z-DNA binding protein 1,16,32,16,16,0,0.5,1,1
+606,zinc finger homeobox 3,105,210,105,105,0,0.5,1,1
+607,Non-Hereditary Clear Cell Renal Cell Carcinoma,32,32,29,0,3,0.90625,0.828571429,1
+608,NLR family pyrin domain containing 7,71,71,65,0,6,0.915492958,0.844155844,1
+609,cyclin T1,34,68,34,34,0,0.5,1,1
+610,transforming acidic coiled-coil containing protein 3,34,34,29,0,5,0.852941176,0.743589744,1
+611,C-type lectin domain family 3 member B,14,14,12,0,2,0.857142857,0.75,1
+612,protein tyrosine phosphatase receptor type J,101,101,94,0,7,0.930693069,0.87037037,1
+613,purine rich element binding protein A,15,15,15,0,0,1,1,0
+614,interleukin 11 receptor subunit alpha,32,32,30,0,2,0.9375,0.882352941,1
+615,endogenous retrovirus group K member 18,429,559,429,130,0,0.76744186,1,4
+616,poly(ADP-ribose) polymerase 1,1218,1218,1200,0,18,0.985221675,0.970873786,2
+617,Brain Aneurysm,11,11,11,0,0,1,1,1
+618,Conventional (Clear Cell) Renal Cell Carcinoma,746,746,733,0,13,0.982573727,0.965744401,2
+619,dynein axonemal light intermediate chain 1,15,15,12,0,3,0.8,0.666666667,1
+620,Malignant hyperpyrexia due to anesthesia,340,340,333,0,7,0.979411765,0.959654179,1
+621,Keratocystic Odontogenic Tumor,33,33,30,0,3,0.909090909,0.833333333,1
+622,Central Core Myopathy (disorder),241,241,221,0,20,0.917012448,0.846743295,1
+623,Inborn Errors of Metabolism,118,118,105,0,13,0.889830508,0.801526718,1
+624,Salmonella infections,51,53,51,2,0,0.962264151,1,1
+625,tankyrase 2,19,19,15,0,4,0.789473684,0.652173913,1
+626,Juvenile dermatomyositis,62,62,60,0,2,0.967741935,0.9375,1
+627,ataxin 3,545,1090,545,545,0,0.5,1,4
+628,Dentinogenesis imperfecta without osteogenesis imperfecta,15,15,13,0,2,0.866666667,0.764705882,0
+629,fibulin 5,102,204,102,102,0,0.5,1,4
+630,Respiratory Tract Infections,144,144,102,0,42,0.708333333,0.548387097,1
+631,endonuclease G,23,287,23,264,0,0.080139373,1,2
+632,Kniest dysplasia,18,18,17,0,1,0.944444444,0.894736842,1
+633,Orofaciodigital Syndrome I,13,13,13,0,0,1,1,0
+634,cyclin dependent kinase 4,858,858,844,0,14,0.983682984,0.967889908,1
+635,G protein regulated inducer of neurite outgrowth 1,27,54,27,27,0,0.5,1,1
+636,Knobloch syndrome,17,17,15,0,2,0.882352941,0.789473684,0
+637,"Kidney Failure, Acute",376,376,344,0,32,0.914893617,0.843137255,2
+638,"ES1 protein homolog, mitochondrial;",342,342,322,0,20,0.941520468,0.889502762,1
+639,endothelin converting enzyme 1,125,250,125,125,0,0.5,1,1
+640,"Hearing Loss, Sudden",24,24,19,0,5,0.791666667,0.655172414,1
+641,tetraspanin 12,28,56,28,28,0,0.5,1,1
+642,D-glucopyranose 1-phosphate,20,20,20,0,0,1,1,0
+643,Aqueous Humor Disorders,97,97,86,0,11,0.886597938,0.796296296,0
+644,"von Willebrand Disease, Type 3",60,60,57,0,3,0.95,0.904761905,0
+645,Werner Syndrome,237,1104,237,867,0,0.214673913,1,3
+646,Hallopeau-Siemens Disease,132,132,111,0,21,0.840909091,0.725490196,1
+647,Embryonal Neoplasm,47,47,43,0,4,0.914893617,0.843137255,1
+648,central hypothyroidism,28,28,26,0,2,0.928571429,0.866666667,1
+649,myosin light chain 7,11,11,11,0,0,1,1,0
+650,protein kinase C gamma,104,511,104,407,0,0.203522505,1,3
+651,Multiple Endocrine Neoplasia Type 2a,650,650,643,0,7,0.989230769,0.97869102,2
+652,retinol binding protein 4,201,402,201,201,0,0.5,1,3
+653,Degenerative Disorder,141,141,121,0,20,0.858156028,0.751552795,1
+654,ADAM metallopeptidase with thrombospondin type 1 motif 15,12,12,11,0,1,0.916666667,0.846153846,1
+655,RENAL INTERSTITIAL FIBROSIS,37,37,32,0,5,0.864864865,0.761904762,1
+656,Scrub Typhus,31,31,29,0,2,0.935483871,0.878787879,0
+657,Choroid Diseases,26,26,26,0,0,1,1,1
+658,Multiple Sulfatase Deficiency Disease,32,32,32,0,0,1,1,1
+659,"Bone Cysts, Aneurysmal",32,32,32,0,0,1,1,0
+660,Coffin-Lowry syndrome,72,72,72,0,0,1,1,1
+661,cystatin D,21,42,21,21,0,0.5,1,3
+662,Thalassemia Intermedia,78,78,67,0,11,0.858974359,0.752808989,0
+663,Dermatofibrosis lenticularis disseminata,16,16,16,0,0,1,1,0
+664,diacylglycerol O-acyltransferase 2,15,384,15,369,0,0.0390625,1,4
+665,Neuroleptic Malignant Syndrome,32,32,31,0,1,0.96875,0.939393939,1
+666,myosin heavy chain 9,426,426,411,0,15,0.964788732,0.931972789,1
+667,Primary Progressive Nonfluent Aphasia,14,14,14,0,0,1,1,1
+668,"CHARCOT-MARIE-TOOTH DISEASE, TYPE 4J",12,12,12,0,0,1,1,0
+669,"Neoplasms, Experimental",75,75,65,0,10,0.866666667,0.764705882,0
+670,Carbamoyl-Phosphate Synthase I Deficiency Disease,30,30,29,0,1,0.966666667,0.935483871,1
+671,mannose receptor C-type 1,1269,1269,1200,0,69,0.945626478,0.896860987,2
+672,stabilin 1,12,24,12,12,0,0.5,1,1
+673,TATA-box binding protein,225,568,225,343,0,0.396126761,1,4
+674,C-type lectin domain family 4 member D,61,346,61,285,0,0.176300578,1,4
+675,Periapical Periodontitis,21,21,19,0,2,0.904761905,0.826086957,1
+676,Dyschromatosis universalis hereditaria,19,37,19,18,0,0.513513514,1,1
+677,"5,10-Methylenetetrahydrofolate reductase deficiency",34,34,30,0,4,0.882352941,0.789473684,0
+678,"Apraxia, Developmental Verbal",24,24,22,0,2,0.916666667,0.846153846,0
+679,GRB2 associated binding protein 1,56,56,53,0,3,0.946428571,0.898305085,1
+680,Extramedullary Plasmacytoma,12,12,11,0,1,0.916666667,0.846153846,1
+681,vascular endothelial growth factor D,188,483,188,295,0,0.389233954,1,2
+682,"CREBBP,EP300 [nucleoplasm]",15,15,14,0,1,0.933333333,0.875,1
+683,TBC1 domain family member 7,13,606,13,593,0,0.021452145,1,2
+684,Cutaneous Mastocytosis,13,13,11,0,2,0.846153846,0.733333333,1
+685,sirtuin 1,852,1704,852,852,0,0.5,1,3
+686,Anxiety neurosis (finding),13,13,13,0,0,1,1,0
+687,glutathione S-transferase omega 2,62,124,62,62,0,0.5,1,1
+688,COMPLEMENT COMPONENT 4A DEFICIENCY,13,13,10,0,3,0.769230769,0.625,0
+689,"helicase, lymphoid specific",20,20,20,0,0,1,1,1
+690,Atrioventricular septal defect and common atrioventricular junction,13,13,13,0,0,1,1,0
+691,crystallin gamma D,225,225,212,0,13,0.942222222,0.890756303,1
+692,"Anemia, Macrocytic",23,23,23,0,0,1,1,1
+693,beta-Galactosidase Deficiency,19,19,19,0,0,1,1,1
+694,Anhydrotic Ectodermal Dysplasias,26,26,26,0,0,1,1,1
+695,"Nephrogenic Diabetes Insipidus, Type II",17,17,17,0,0,1,1,0
+696,CREB regulated transcription coactivator 3,11,22,11,11,0,0.5,1,0
+697,interleukin 37,87,174,87,87,0,0.5,1,3
+698,Combined hyperlipidemia,21,21,15,0,6,0.714285714,0.555555556,0
+699,Mainzer-Saldino Disease,13,13,13,0,0,1,1,1
+700,Creatinine finding,91,91,87,0,4,0.956043956,0.915789474,1
+701,Scapuloperoneal myopathy,13,18,13,5,0,0.722222222,1,1
+702,Intermittent Claudication,28,28,25,0,3,0.892857143,0.806451613,1
+703,Endocardial Cushion Defects,13,13,13,0,0,1,1,1
+704,Papillary thyroid carcinoma,1770,1788,1770,18,0,0.989932886,1,2
+705,hydroxysteroid 17-beta dehydrogenase 7,179,186,179,7,0,0.962365591,1,1
+706,mitogen-activated protein kinase kinase 3,25,48,25,23,0,0.520833333,1,1
+707,leucine rich repeat containing G protein-coupled receptor 5,163,163,143,0,20,0.877300613,0.781420765,1
+708,basic charge Y-linked 2C,11,11,11,0,0,1,1,1
+709,RNA guanine-7 methyltransferase,863,867,863,4,0,0.99538639,1,1
+710,inosine monophosphate dehydrogenase 1,67,96,67,29,0,0.697916667,1,1
+711,Pleomorphic Carcinoma,18,18,18,0,0,1,1,0
+712,Myasthenia Gravis,482,541,482,59,0,0.890942699,1,1
+713,bilateral breast cancer,71,71,66,0,5,0.929577465,0.868421053,1
+714,Cerebral Small Vessel Diseases,33,33,33,0,0,1,1,1
+715,Metabolic Syndrome X,2378,2378,2222,0,156,0.934398654,0.876874507,2
+716,tubulin alpha 1b,35,35,32,0,3,0.914285714,0.842105263,0
+717,Muscle twitch,14,14,12,0,2,0.857142857,0.75,0
+718,multiple EGF like domains 10,21,21,19,0,2,0.904761905,0.826086957,1
+719,Status Epilepticus,225,225,220,0,5,0.977777778,0.956521739,1
+720,Monocytoid B-cell lymphoma,15,15,13,0,2,0.866666667,0.764705882,1
+721,leucine rich repeats and immunoglobulin like domains 2,20,20,17,0,3,0.85,0.739130435,0
+722,Harlequin Fetus,38,38,33,0,5,0.868421053,0.76744186,0
+723,"46, XY female",58,58,55,0,3,0.948275862,0.901639344,0
+724,Hematocrit level,57,57,52,0,5,0.912280702,0.838709677,1
+725,"phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 1",34,34,31,0,3,0.911764706,0.837837838,0
+726,ubiquitin conjugating enzyme E2 S,57,57,53,0,4,0.929824561,0.868852459,1
+727,ferritin mitochondrial,24,48,24,24,0,0.5,1,1
+728,"Subfertility, Male",14,14,14,0,0,1,1,0
+729,"Leukemia, Large Granular Lymphocytic",108,108,100,0,8,0.925925926,0.862068966,1
+730,Aortic Diseases,37,37,37,0,0,1,1,0
+731,brain dysfunction,11,11,11,0,0,1,1,1
+732,protein tyrosine phosphatase non-receptor type 3,26,26,26,0,0,1,1,0
+733,Advanced Malignant Neoplasm,136,136,122,0,14,0.897058824,0.813333333,1
+734,drebrin like,13,13,13,0,0,1,1,1
+735,Alagille Syndrome,107,125,107,18,0,0.856,1,1
+736,Skin Pigmentation Disorder,12,12,12,0,0,1,1,0
+737,Schizotypal Personality Disorder,13,13,13,0,0,1,1,1
+738,Congenital ocular coloboma (disorder),122,122,119,0,3,0.975409836,0.952,1
+739,Oppositional Defiant Disorder,39,39,33,0,6,0.846153846,0.733333333,1
+740,Ovarian Serous Tumor,12,12,12,0,0,1,1,1
+741,Ras protein specific guanine nucleotide releasing factor 1,110,110,100,0,10,0.909090909,0.833333333,1
+742,plakophilin 2,92,184,92,92,0,0.5,1,3
+743,dopachrome tautomerase,94,188,94,94,0,0.5,1,3
+744,Carcinoma of unknown primary,13,13,13,0,0,1,1,1
+745,actinin alpha 4,180,180,166,0,14,0.922222222,0.855670103,1
+746,"Charcot-Marie-Tooth disease, X-linked, 1",107,107,107,0,0,1,1,1
+747,"Pseudohypoaldosteronism, Type II",92,137,92,45,0,0.671532847,1,1
+748,Stage II Colon Cancer AJCC v7,24,24,22,0,2,0.916666667,0.846153846,1
+749,Color vision defect,23,23,20,0,3,0.869565217,0.769230769,1
+750,TBC1 domain family member 24,52,286,52,234,0,0.181818182,1,1
+751,B Lymphoblastic Lymphoma,14,14,14,0,0,1,1,1
+752,Intellectual impairment,20,20,20,0,0,1,1,0
+753,FXYD domain containing ion transport regulator 6,12,24,12,12,0,0.5,1,1
+754,Cervical Squamous Cell Carcinoma,204,204,200,0,4,0.980392157,0.961538462,1
+755,nuclear receptor subfamily 1 group H member 2,172,172,165,0,7,0.959302326,0.921787709,4
+756,"Candidiasis, Chronic Mucocutaneous",71,71,65,0,6,0.915492958,0.844155844,1
+757,Malignant neoplasm of gastrointestinal tract,395,395,366,0,29,0.926582278,0.863207547,1
+758,PDZK1 interacting protein 1,24,48,24,24,0,0.5,1,2
+759,Donohue Syndrome,91,91,91,0,0,1,1,1
+760,interleukin 17D,350,700,350,350,0,0.5,1,2
+761,Miller Dieker syndrome,177,177,154,0,23,0.870056497,0.77,1
+762,Unipolar Depression,1331,1331,1288,0,43,0.967693464,0.937409025,2
+763,ribosomal protein S2,13,346,13,333,0,0.037572254,1,3
+764,calpain 2,11,21,11,10,0,0.523809524,1,1
+765,Sleep Disorders,160,163,160,3,0,0.981595092,1,2
+766,protein tyrosine phosphatase non-receptor type 12,40,40,34,0,6,0.85,0.739130435,1
+767,"MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 1B (disorder)",20,20,20,0,0,1,1,1
+768,Endocrine System Diseases,122,122,112,0,10,0.918032787,0.848484848,0
+769,CUGBP Elav-like family member 1,56,1525,56,1469,0,0.036721311,1,7
+770,insulin dependent diabetes mellitus 7,12,12,12,0,0,1,1,0
+771,ubiquitin conjugating enzyme E2 T,40,40,33,0,7,0.825,0.70212766,1
+772,WHIM syndrome,54,54,52,0,2,0.962962963,0.928571429,0
+773,WAGR Syndrome,53,53,53,0,0,1,1,1
+774,Myelodysplastic Syndrome with Isolated del(5q),103,103,97,0,6,0.941747573,0.889908257,1
+775,ribosomal protein S27,65,186,65,121,0,0.349462366,1,2
+776,interferon alpha 6,12,12,12,0,0,1,1,1
+777,Hereditary Motor and Sensory Neuropathies,119,119,100,0,19,0.840336134,0.724637681,1
+778,Common Cold,37,37,35,0,2,0.945945946,0.897435897,1
+779,myosin VB,45,90,45,45,0,0.5,1,1
+780,death associated protein kinase 1,247,247,233,0,14,0.943319838,0.892720307,1
+781,latent transforming growth factor beta binding protein 4,40,80,40,40,0,0.5,1,2
+782,G protein-coupled receptor 151,47,94,47,47,0,0.5,1,0
+783,"17,20-LYASE DEFICIENCY, ISOLATED",12,12,12,0,0,1,1,0
+784,Oculocutaneous albinism type 2,42,42,42,0,0,1,1,1
+785,Motion Sickness,18,18,18,0,0,1,1,0
+786,"Diabetes Mellitus, Non-Insulin-Dependent",13455,13455,12999,0,456,0.966109253,0.934440371,14
+787,Aortic Aneurysm,438,1569,438,1131,0,0.2791587,1,4
+788,Mevalonic Aciduria,20,20,20,0,0,1,1,1
+789,"GRANULOMATOUS DISEASE, CHRONIC, X-LINKED",19,19,19,0,0,1,1,1
+790,interleukin 7 receptor,257,514,257,257,0,0.5,1,2
+791,Xeroderma Pigmentosum Complementation Group A,106,106,99,0,7,0.933962264,0.876106195,1
+792,endogenous retrovirus group W member 4,261,261,255,0,6,0.977011494,0.95505618,1
+793,Intestinal Neoplasms,221,221,200,0,21,0.904977376,0.826446281,1
+794,chymotrypsin C,46,92,46,46,0,0.5,1,3
+795,Intervertebral disc disorder,23,23,20,0,3,0.869565217,0.769230769,1
+796,TBC1 domain family member 9,1651,2223,1651,572,0,0.742690058,1,3
+797,"SPHEROCYTOSIS, TYPE 4",18,18,18,0,0,1,1,1
+798,syntrophin alpha 1,24,24,24,0,0,1,1,0
+799,Biotinidase Deficiency,29,29,29,0,0,1,1,1
+800,thrombospondin 2,101,202,101,101,0,0.5,1,3
+801,Diabetes Insipidus,62,62,55,0,7,0.887096774,0.797101449,0
+802,Malignant tumor of cervix,2523,2523,2400,0,123,0.951248514,0.907029478,3
+803,"BLEPHAROPHIMOSIS, PTOSIS, AND EPICANTHUS INVERSUS (disorder)",37,37,31,0,6,0.837837838,0.720930233,1
+804,Dermatologic disorders,824,824,800,0,24,0.970873786,0.943396226,1
+805,cancer/testis antigen family 45 member A1,12,19,12,7,0,0.631578947,1,1
+806,"Pseudohypoaldosteronism, Type I, Autosomal Recessive",13,13,13,0,0,1,1,1
+807,Chronic Graft Versus Host Disease,150,150,133,0,17,0.886666667,0.796407186,1
+808,cysteine rich secretory protein LCCL domain containing 2,14,14,14,0,0,1,1,2
+809,EH domain containing 1,11,11,11,0,0,1,1,0
+810,Celiac Disease,1556,1606,1556,50,0,0.96886675,1,3
+811,BIETTI CRYSTALLINE CORNEORETINAL DYSTROPHY,31,31,29,0,2,0.935483871,0.878787879,1
+812,"BRACHYDACTYLY, TYPE A2",27,27,25,0,2,0.925925926,0.862068966,0
+813,Impaired glucose tolerance,726,726,711,0,15,0.979338843,0.95951417,1
+814,endogenous retrovirus group K member 11,230,500,230,270,0,0.46,1,2
+815,NADH cytochrome B5 reductase deficiency,32,32,32,0,0,1,1,0
+816,ADAM metallopeptidase with thrombospondin type 1 motif 4,64,64,55,0,9,0.859375,0.753424658,1
+817,Glomerulosclerosis (disorder),157,157,144,0,13,0.917197452,0.847058824,1
+818,Cohen syndrome,35,35,35,0,0,1,1,0
+819,"destrin, actin depolymerizing factor",15,15,15,0,0,1,1,1
+820,retinol binding protein 2,24,48,24,24,0,0.5,1,1
+821,Marfan Syndrome,514,522,514,8,0,0.98467433,1,1
+822,Neurodegeneration with brain iron accumulation (NBIA),86,86,76,0,10,0.88372093,0.791666667,1
+823,death associated protein kinase 2,33,33,33,0,0,1,1,0
+824,CUGBP Elav-like family member 2,29,427,29,398,0,0.067915691,1,2
+825,"Gangliosidosis, Generalized GM1, Type 2",15,15,15,0,0,1,1,1
+826,glutamate receptor interacting protein 1,15,30,15,15,0,0.5,1,0
+827,DOYNE HONEYCOMB RETINAL DYSTROPHY,17,17,17,0,0,1,1,0
+828,phosphoribosyl pyrophosphate synthetase 1 like 1,22,22,19,0,3,0.863636364,0.76,0
+829,SPINAL MUSCULAR ATROPHY WITH RESPIRATORY DISTRESS 1,38,38,35,0,3,0.921052632,0.853658537,0
+830,Hemoglobin Adverse Event,14,14,11,0,3,0.785714286,0.647058824,1
+831,Adrenal hypertrophy or hyperplasia,84,84,81,0,3,0.964285714,0.931034483,1
+832,Marinesco-Sjogren syndrome,21,21,21,0,0,1,1,1
+833,mitogen-activated protein kinase kinase 6,29,57,29,28,0,0.50877193,1,2
+834,Hereditary Coproporphyria,43,43,38,0,5,0.88372093,0.791666667,0
+835,marginal zone B and B1 cell specific protein,58,58,51,0,7,0.879310345,0.784615385,1
+836,Hay fever,161,161,148,0,13,0.919254658,0.850574713,1
+837,Colon Carcinoma,7258,7259,7000,1,258,0.964320154,0.931346461,7
+838,cadherin 17,93,186,93,93,0,0.5,1,3
+839,CCAAT enhancer binding protein epsilon,34,34,34,0,0,1,1,1
+840,3-Methylglutaconic aciduria type 2,98,98,98,0,0,1,1,0
+841,"DEAFNESS, AUTOSOMAL RECESSIVE (disorder)",47,47,47,0,0,1,1,1
+842,Chronic eosinophilic leukemia,183,183,183,0,0,1,1,1
+843,Multiple Endocrine Neoplasia,316,3135,316,2819,0,0.100797448,1,8
+844,"Child Development Disorders, Pervasive",64,64,55,0,9,0.859375,0.753424658,1
+845,Compression of spinal cord,16,16,16,0,0,1,1,1
+846,"Anemia, Hemolytic",262,319,262,57,0,0.821316614,1,1
+847,Cardiovascular Abnormalities,30,30,30,0,0,1,1,1
+848,Dystrophia myotonica 2,12,12,12,0,0,1,1,1
+849,Deficiency of glucose-6-phosphate dehydrogenase,312,312,312,0,0,1,1,2
+850,multimerin 1,71,142,71,71,0,0.5,1,3
+851,Guillain-Barre Syndrome,77,77,77,0,0,1,1,1
+852,Axenfeld anomaly (disorder),16,16,16,0,0,1,1,1
+853,desmocollin 2,96,192,96,96,0,0.5,1,2
+854,MASP2 DEFICIENCY,11,11,7,0,4,0.636363636,0.466666667,1
+855,AMYOTROPHIC LATERAL SCLEROSIS AND/OR FRONTOTEMPORAL DEMENTIA 1,15,15,15,0,0,1,1,0
+856,Loss of scalp hair,16,16,16,0,0,1,1,1
+857,Canarypox (disorder),35,35,35,0,0,1,1,0
+858,LATS:p-MOB [cytosol],15,15,15,0,0,1,1,1
+859,Stage III Colon Cancer AJCC v7,28,28,23,0,5,0.821428571,0.696969697,1
+860,C3 and PZP like alpha-2-macroglobulin domain containing 8,73,73,73,0,0,1,1,1
+861,solute carrier family 25 member 38,15,15,15,0,0,1,1,1
+862,Chagas Cardiomyopathy,54,54,54,0,0,1,1,1
+863,RETINAL DAMAGE,15,15,15,0,0,1,1,0
+864,Hemophilia A carrier,12,12,12,0,0,1,1,1
+865,glycoprotein VI platelet,87,87,87,0,0,1,1,1
+866,Drug Eruptions,37,37,37,0,0,1,1,0
+867,Jaw Abnormalities,11,11,11,0,0,1,1,0
+868,Hepatitis B Virus-Related Hepatocellular Carcinoma,22,22,22,0,0,1,1,0
+869,RNA binding motif protein X-linked,15,16,15,1,0,0.9375,1,0
+870,Female Urogenital Diseases,18,18,18,0,0,1,1,0
+871,dimethylarginine dimethylaminohydrolase 2,46,92,46,46,0,0.5,1,1
+872,poly(rC) binding protein 4,169,338,169,169,0,0.5,1,2
+873,tumor necrosis factor,11859,47701,11859,35842,0,0.24861114,1,116
+874,"Dominant dystrophic epidermolysis bullosa, albopapular type (disorder)",15,15,15,0,0,1,1,1
+875,Communication impairment,11,11,11,0,0,1,1,1
+876,Autoimmune Diseases,3595,3597,3595,2,0,0.999443981,1,3
+877,Sudden Cardiac Death,149,149,149,0,0,1,1,1
+878,Infantile onset spinocerebellar ataxia,17,17,17,0,0,1,1,1
+879,Infantile myofibromatosis,13,13,13,0,0,1,1,1
+880,Oropharyngeal squamous cell carcinoma,91,91,88,0,3,0.967032967,0.936170213,1
+881,gap junction protein gamma 2,54,54,54,0,0,1,1,1
+882,Esophageal Atresia,25,31,25,6,0,0.806451613,1,1
+883,cAMP responsive element modulator,75,150,75,75,0,0.5,1,3
+884,"Gonadal Dysgenesis, 46,XY",37,37,37,0,0,1,1,1
+885,endothelin receptor type B,402,1503,402,1101,0,0.26746507,1,5
+886,cyclin dependent kinase inhibitor 1B,1285,1285,1200,0,85,0.93385214,0.875912409,2
+887,Intracranial Thrombosis,29,29,29,0,0,1,1,0
+888,leukocyte cell derived chemotaxin 2,22,22,22,0,0,1,1,0
+889,"Nevus, Blue",17,17,17,0,0,1,1,0
+890,"spinocerebellar ataxia, autosomal recessive 2",20,38,20,18,0,0.526315789,1,1
+891,HMG CoA lyase deficiency,16,16,16,0,0,1,1,1
+892,interleukin 15,456,1002,456,546,0,0.45508982,1,3
+893,signal-induced proliferation-associated 1,60,1554,60,1494,0,0.038610039,1,7
+894,Renal hypouricemia,51,51,51,0,0,1,1,1
+895,calcyclin binding protein,55,110,55,55,0,0.5,1,1
+896,SH3 domain binding protein 4,47,47,47,0,0,1,1,1
+897,Lower respiratory tract infection,25,25,25,0,0,1,1,0
+898,hydroxysteroid 17-beta dehydrogenase 13,50,50,45,0,5,0.9,0.818181818,1
+899,Coronary Artery Disease,4735,4749,4735,14,0,0.997052011,1,5
+900,G protein-coupled receptor class C group 5 member A,99,99,87,0,12,0.878787879,0.783783784,1
+901,Renal glomerular disease,166,166,143,0,23,0.861445783,0.756613757,1
+902,Liver regeneration disorder,152,152,152,0,0,1,1,1
+903,splicing factor 3b subunit 2,116,578,116,462,0,0.200692042,1,2
+904,FUNDUS ALBIPUNCTATUS,65,65,65,0,0,1,1,1
+905,CD40 ligand,861,2020,861,1159,0,0.426237624,1,7
+906,MCF.2 cell line derived transforming sequence like,50,50,44,0,6,0.88,0.785714286,1
+907,Pustulosis of Palms and Soles,29,29,29,0,0,1,1,1
+908,"PRECOCIOUS PUBERTY, CENTRAL",30,30,30,0,0,1,1,0
+909,skin toxicity,46,46,46,0,0,1,1,1
+910,"Neoplasms, Neuroepithelial",22,22,22,0,0,1,1,0
+911,Progressive Neoplastic Disease,269,269,269,0,0,1,1,2
+912,Hantavirus Infections,146,146,146,0,0,1,1,1
+913,Sexually Transmitted Diseases,23,25,23,2,0,0.92,1,1
+914,death domain associated protein,65,65,55,0,10,0.846153846,0.733333333,1
+915,"actin alpha 1, skeletal muscle",136,136,121,0,15,0.889705882,0.801324503,1
+916,pre T cell antigen receptor alpha,19,19,19,0,0,1,1,1
+917,Corpus callosum agenesis neuronopathy,14,14,14,0,0,1,1,1
+918,Prostatic Diseases,71,71,66,0,5,0.929577465,0.868421053,0
+919,Neurodegenerative Disorders,2737,2737,2675,0,62,0.977347461,0.955698464,3
+920,Neuroendocrine Tumors,531,531,511,0,20,0.962335217,0.927404719,1
+921,"Infarction, Middle Cerebral Artery",108,108,100,0,8,0.925925926,0.862068966,1
+922,lipopolysaccharide binding protein,75,150,75,75,0,0.5,1,1
+923,Very Low Birth Weight,45,45,43,0,2,0.955555556,0.914893617,1
+924,Benign Neoplasm,347,414,347,67,0,0.838164251,1,1
+925,Gastrointestinal Stromal Tumors,1804,1804,1790,0,14,0.992239468,0.98459846,3
+926,transcription factor 7 like 1,58,92,58,34,0,0.630434783,1,1
+927,Anal carcinoma,27,27,25,0,2,0.925925926,0.862068966,0
+928,ubiquitin conjugating enzyme E2 L3,29,29,27,0,2,0.931034483,0.870967742,1
+929,Roberts-SC phocomelia syndrome,24,24,24,0,0,1,1,0
+930,Pineal Gland Neoplasm,11,11,11,0,0,1,1,1
+931,MUCOLIPIDOSIS II ALPHA/BETA (disorder),11,11,11,0,0,1,1,0
+932,"Optic Atrophy, Hereditary, Leber",154,154,144,0,10,0.935064935,0.87804878,1
+933,ribosomal protein S4 X-linked,17,17,17,0,0,1,1,1
+934,phosphatidylethanolamine binding protein 4,20,20,20,0,0,1,1,0
+935,serine peptidase inhibitor Kazal type 5,145,145,140,0,5,0.965517241,0.933333333,1
+936,Peripheral Nerve Sheath Neoplasm,12,12,12,0,0,1,1,1
+937,vesicle associated membrane protein 2,13,13,13,0,0,1,1,1
+938,BCL2 like 12,63,63,63,0,0,1,1,0
+939,anoctamin 3,29,58,29,29,0,0.5,1,1
+940,Adenocarcinoma of lung (disorder),2336,2336,2222,0,114,0.95119863,0.906938776,3
+941,Fanconi Syndrome,24,24,24,0,0,1,1,1
+942,Adenosquamous carcinoma,83,83,83,0,0,1,1,1
+943,Shoulder Pain,12,12,12,0,0,1,1,0
+944,Developmental reading disorder,58,58,54,0,4,0.931034483,0.870967742,0
+945,acyl-CoA dehydrogenase family member 9,16,16,16,0,0,1,1,1
+946,childhood rhabdomyosarcoma,34,34,34,0,0,1,1,1
+947,Mouth Diseases,22,22,12,0,10,0.545454545,0.375,1
+948,Migraine with Aura,180,244,180,64,0,0.737704918,1,1
+949,HOLOPROSENCEPHALY 3,15,15,15,0,0,1,1,0
+950,Congenital Thrombotic Thrombocytopenic Purpura,77,77,67,0,10,0.87012987,0.770114943,1
+951,Wolcott-Rallison syndrome,43,43,40,0,3,0.930232558,0.869565217,1
+952,heterogeneous nuclear ribonucleoprotein D like,44,44,40,0,4,0.909090909,0.833333333,1
+953,melanin concentrating hormone receptor 1,52,52,50,0,2,0.961538462,0.925925926,1
+954,Guanidinoacetate methyltransferase deficiency,13,13,13,0,0,1,1,1
+955,Familial hyperparathyroidism,27,27,27,0,0,1,1,1
+956,neurexophilin 1,28,56,28,28,0,0.5,1,2
+957,Hyperimmunoglobulinemia D,49,49,43,0,6,0.87755102,0.781818182,1
+958,microRNA 18a,20,40,20,20,0,0.5,1,0
+959,Cartilage Diseases,12,12,12,0,0,1,1,1
+960,coactosin like F-actin binding protein 1,29,29,29,0,0,1,1,1
+961,periodic paralysis (finding),40,40,37,0,3,0.925,0.860465116,1
+962,Rectal Polyp,11,11,11,0,0,1,1,0
+963,Porphobilinogen synthase deficiency,21,21,21,0,0,1,1,2
+964,"Mammary Neoplasms, Experimental",271,271,266,0,5,0.981549815,0.963768116,1
+965,Trigeminal Neuralgia,40,40,35,0,5,0.875,0.777777778,1
+966,"Familial Amyloid Polyneuropathy, Type V",33,33,33,0,0,1,1,0
+967,EDAR associated death domain,34,34,34,0,0,1,1,1
+968,Intraocular pressure disorder,173,173,173,0,0,1,1,1
+969,NEPHRONOPHTHISIS 2,11,11,11,0,0,1,1,1
+970,MPS III B,47,47,47,0,0,1,1,1
+971,peroxisome proliferator activated receptor alpha,779,779,764,0,15,0.980744544,0.962216625,1
+972,Insulin Sensitivity,12,12,12,0,0,1,1,0
+973,GIANT AXONAL NEUROPATHY 1,34,34,22,0,12,0.647058824,0.47826087,1
+974,Adult Acute Lymphocytic Leukemia,210,210,210,0,0,1,1,1
+975,phospholipase A2 group VI,379,639,379,260,0,0.593114241,1,2
+976,Blood pressure finding,489,489,489,0,0,1,1,1
+977,interleukin 1 receptor type 1,272,272,272,0,0,1,1,1
+978,Acute Chest Syndrome,18,18,18,0,0,1,1,1
+979,integrin binding sialoprotein,145,145,145,0,0,1,1,1
+980,psychological symptom,16,16,16,0,0,1,1,0
+981,PAXIP1 associated glutamate rich protein 1,60,60,60,0,0,1,1,2
+982,insulin like growth factor binding protein 7,255,255,255,0,0,1,1,1
+983,Dysplastic Nevus,98,119,98,21,0,0.823529412,1,1
+984,Low-density lipoprotein receptor,12,10524,12,10512,0,0.001140251,1,20
+985,"Alzheimer disease, familial, type 3",34,34,34,0,0,1,1,1
+986,C-terminal binding protein 2,47,94,47,47,0,0.5,1,3
+987,RAD54 like,28,29,28,1,0,0.965517241,1,0
+988,adhesion G protein-coupled receptor V1,64,64,64,0,0,1,1,1
+989,"Corneal Dystrophy, Juvenile Epithelial of Meesmann",35,35,33,0,2,0.942857143,0.891891892,1
+990,TNF receptor-associated factor 1,13,399,13,386,0,0.032581454,1,5
+991,Conduct Disorder,82,83,82,1,0,0.987951807,1,1
+992,monocyte to macrophage differentiation associated,25,28,25,3,0,0.892857143,1,1
+993,growth differentiation factor 2,48,96,48,48,0,0.5,1,0
+994,beta Thalassemia,1056,1237,1056,181,0,0.853678254,1,2
+995,Q Fever,34,34,29,0,5,0.852941176,0.743589744,0
+996,MLX interacting protein like,72,72,67,0,5,0.930555556,0.87012987,0
+997,metastasis associated 1 family member 3,36,36,29,0,7,0.805555556,0.674418605,1
+998,MPS III C,13,13,11,0,2,0.846153846,0.733333333,0
+999,ubiquilin 2,66,132,66,66,0,0.5,1,14
+1000,calpain small subunit 1,22,529,22,507,0,0.041587902,1,3
